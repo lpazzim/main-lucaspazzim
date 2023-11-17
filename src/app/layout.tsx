@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import StyledJsxRegistry from "../../lib/registry";
+import StyledJsxRegistry from "@/lib/registry";
 
 export const metadata: Metadata = {
   title: "Lucas Pazzim",
